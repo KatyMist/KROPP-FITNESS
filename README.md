@@ -131,11 +131,3 @@ open index.html
 ```
 
 Or open the **[live demo](https://katymist.github.io/KROPP-FITNESS/)** on GitHub Pages.
-
----
-
-<div align="center">
-
-Сделано с 💛 · Made with 💛 by [KatyMist](https://github.com/KatyMist)
-
-</div>
