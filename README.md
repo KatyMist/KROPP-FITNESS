@@ -81,6 +81,12 @@ open index.html
 
 Или откройте **[демо](https://katymist.github.io/KROPP-FITNESS/)** на GitHub Pages.
 
+### Автор
+
+**Екатерина Туманова** — Frontend Developer & Designer
+
+[Портфолио](https://katymist.github.io/Portfolio/) · [GitHub](https://github.com/KatyMist)
+
 ---
 
 ## 🇬🇧 English
@@ -132,13 +138,16 @@ open index.html
 
 Or open the **[live demo](https://katymist.github.io/KROPP-FITNESS/)** on GitHub Pages.
 
-## Автор · Author
+---
 
-**Екатерина Туманова · Ekaterina Tumanova** — Frontend Developer & Designer
+### Author
 
-[Портфолио · Portfolio](https://katymist.github.io/Portfolio/) · [GitHub](https://github.com/KatyMist)
+**Ekaterina Tumanova** — Frontend Developer & Designer
+
+[Portfolio](https://katymist.github.io/Portfolio/) · [GitHub](https://github.com/KatyMist)
+
+---
 
 <div align="center">
-<sub>Учебный проект на безвозмездной основе · A learning project built pro bono<br>© Анна Кудурова — фото и материалы · © Anna Kudurova — photos and materials</sub>
+<sub>Макет и дизайн — © Александр Ламков (Friendly Frontend) · Mockup and design — © Alexander Lamkov (Friendly Frontend)</sub>
 </div>
-
