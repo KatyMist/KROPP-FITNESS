@@ -1,25 +1,34 @@
 <div align="center">
 
-# 🏋️ KROPP FITNESS
+<h1 align="center">🏋️ KROPP FITNESS</h1>
 
-**Адаптивный лендинг фитнес-клуба**<br>
-**A responsive landing page for a fitness club**
+<p align="center">
+  <b>Адаптивный лендинг фитнес-клуба</b><br>
+  <b>A responsive landing page for a fitness club</b>
+</p>
 
-<a href="https://katymist.github.io/KROPP-FITNESS/"><img src="https://img.shields.io/badge/Открыть_сайт-KROPP_Fitness-1f3a2b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f1f17" alt="Открыть сайт"></a>
-<img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML5, CSS3, Figma">
+<p align="center">
+  <a href="https://katymist.github.io/KROPP-FITNESS/"><img src="https://img.shields.io/badge/Открыть_сайт-KROPP_Fitness-1f3a2b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f1f17" alt="Открыть сайт"></a>
+</p>
 
-<a href="#-русский"><img src="https://img.shields.io/badge/RU-Русский-1f3a2b?style=flat-square&labelColor=0f1f17" alt="Русский"></a>
-<a href="#-english"><img src="https://img.shields.io/badge/EN-English-1f3a2b?style=flat-square&labelColor=0f1f17" alt="English"></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML5, CSS3, Figma">
+</p>
 
-<img width="2880" height="1600" alt="image" src="https://github.com/user-attachments/assets/4789b2fa-1e88-441c-a7fe-c0ab2d576f39" />
+<p align="center">
+  <a href="#-русский"><img src="https://img.shields.io/badge/RU-Русский-1f3a2b?style=flat-square&labelColor=0f1f17" alt="Русский"></a>
+  <a href="#-english"><img src="https://img.shields.io/badge/EN-English-1f3a2b?style=flat-square&labelColor=0f1f17" alt="English"></a>
+</p>
 
-</div>
+<p align="center">
+  <img width="2880" height="1600" alt="KROPP Fitness — скриншот сайта" src="https://github.com/user-attachments/assets/4789b2fa-1e88-441c-a7fe-c0ab2d576f39" />
+</p>
 
 
 > [!NOTE]
-> **О проекте.** Сайт сделан как учебный проект по видеокурсу Александра Ламкова (Friendly Frontend) [«Адаптивная верстка сайта с нуля для начинающих»](https://www.youtube.com/playlist?list=PL0MUAHwery4rqkzKF1mDBCIH_eZgjY6uN). Дизайн и идея принадлежат автору курса, вёрстка — моя учебная работа.
+> **О проекте.** Учебная вёрстка по видеокурсу Александра Ламкова (Friendly Frontend) [«Адаптивная верстка сайта с нуля для начинающих»](https://www.youtube.com/playlist?list=PL0MUAHwery4rqkzKF1mDBCIH_eZgjY6uN). Макет и дизайн принадлежат автору курса. Вёрстка и адаптив — моя самостоятельная работа.
 >
-> **About the project.** This website is a learning project built following Alexander Lamkov's (Friendly Frontend) video course ["Responsive website layout from scratch for beginners"](https://www.youtube.com/playlist?list=PL0MUAHwery4rqkzKF1mDBCIH_eZgjY6uN) (in Russian). The design and concept belong to the course author; the markup is my own learning work.
+> **About the project.** A layout study based on Alexander Lamkov's (Friendly Frontend) video course ["Responsive website layout from scratch for beginners"](https://www.youtube.com/playlist?list=PL0MUAHwery4rqkzKF1mDBCIH_eZgjY6uN) (in Russian). The mockup and design belong to the course author. The markup and responsive layout are my own work.
 
 ---
 
