@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://github.com/user-attachments/assets/16306dbb-549e-430c-ac70-3d0fc63de03d" alt="KROPP Fitness — главная страница" width="100%">
+<img width="2880" height="1600" alt="image" src="https://github.com/user-attachments/assets/4789b2fa-1e88-441c-a7fe-c0ab2d576f39" />
 
 </div>
 
