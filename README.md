@@ -27,9 +27,9 @@
 </div>
 
 > [!NOTE]
-> **О проекте.** Учебная вёрстка по видеокурсу Александра Ламкова (Friendly Frontend) [«Адаптивная верстка сайта с нуля для начинающих»](https://www.youtube.com/playlist?list=PL0MUAHwery4rqkzKF1mDBCIH_eZgjY6uN). Макет и дизайн принадлежат автору курса. Вёрстка и адаптив — моя самостоятельная работа.
+> **О проекте.** Учебная вёрстка по видеокурсу Александра Ламкова (Friendly Frontend) [«Адаптивная верстка сайта с нуля для начинающих»](https://www.youtube.com/playlist?list=PL0MUAHwery4rqkzKF1mDBCIH_eZgjY6uN). Макет и дизайн принадлежат автору курса, вёрстку и адаптив я повторяла вслед за уроками.
 >
-> **About the project.** A layout study based on Alexander Lamkov's (Friendly Frontend) video course ["Responsive website layout from scratch for beginners"](https://www.youtube.com/playlist?list=PL0MUAHwery4rqkzKF1mDBCIH_eZgjY6uN) (in Russian). The mockup and design belong to the course author. The markup and responsive layout are my own work.
+> **About the project.** A layout study based on Alexander Lamkov's (Friendly Frontend) video course ["Responsive website layout from scratch for beginners"](https://www.youtube.com/playlist?list=PL0MUAHwery4rqkzKF1mDBCIH_eZgjY6uN) (in Russian). The mockup and design belong to the course author; I reproduced the markup and responsive layout by following the lessons.
 
 ---
 
