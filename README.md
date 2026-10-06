@@ -24,6 +24,7 @@
   <img width="2880" height="1600" alt="KROPP Fitness — скриншот сайта" src="https://github.com/user-attachments/assets/4789b2fa-1e88-441c-a7fe-c0ab2d576f39" />
 </p>
 
+</div>
 
 > [!NOTE]
 > **О проекте.** Учебная вёрстка по видеокурсу Александра Ламкова (Friendly Frontend) [«Адаптивная верстка сайта с нуля для начинающих»](https://www.youtube.com/playlist?list=PL0MUAHwery4rqkzKF1mDBCIH_eZgjY6uN). Макет и дизайн принадлежат автору курса. Вёрстка и адаптив — моя самостоятельная работа.
