@@ -131,3 +131,14 @@ open index.html
 ```
 
 Or open the **[live demo](https://katymist.github.io/KROPP-FITNESS/)** on GitHub Pages.
+
+## Автор · Author
+
+**Екатерина Туманова · Ekaterina Tumanova** — Frontend Developer & Designer
+
+[Портфолио · Portfolio](https://katymist.github.io/Portfolio/) · [GitHub](https://github.com/KatyMist)
+
+<div align="center">
+<sub>Учебный проект на безвозмездной основе · A learning project built pro bono<br>© Анна Кудурова — фото и материалы · © Anna Kudurova — photos and materials</sub>
+</div>
+
