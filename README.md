@@ -12,17 +12,15 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML5, CSS3, Figma">
+  <img src="https://skillicons.dev/icons?i=html,css,figma,github" alt="HTML5, CSS3, Figma, GitHub">
 </p>
 
 <p align="center">
-  <a href="#-русский"><img src="https://img.shields.io/badge/RU-Русский-1f3a2b?style=flat-square&labelColor=0f1f17" alt="Русский"></a>
-  <a href="#-english"><img src="https://img.shields.io/badge/EN-English-1f3a2b?style=flat-square&labelColor=0f1f17" alt="English"></a>
+  <img src="https://img.shields.io/badge/RU-Русский-1f3a2b?style=flat-square&labelColor=0f1f17" alt="Русский">
+  <img src="https://img.shields.io/badge/EN-English-1f3a2b?style=flat-square&labelColor=0f1f17" alt="English">
 </p>
 
-<p align="center">
-  <img width="2880" height="1600" alt="KROPP Fitness — скриншот сайта" src="https://github.com/user-attachments/assets/4789b2fa-1e88-441c-a7fe-c0ab2d576f39" />
-</p>
+<img width="2880" height="1600" alt="KROPP Fitness — скриншот сайта" src="https://github.com/user-attachments/assets/4789b2fa-1e88-441c-a7fe-c0ab2d576f39" />
 
 </div>
 
@@ -33,45 +31,60 @@
 
 ---
 
-## 🇷🇺 Русский
+## О сайте · About
 
-### О проекте
+Одностраничный лендинг фитнес-клуба в тёмной теме с крупной типографикой. Вёрстка адаптирована под десктоп, планшет и смартфон.
 
-**KROPP Fitness** — учебный проект по вёрстке: одностраничный сайт фитнес-клуба в тёмной теме с крупной типографикой. Вёрстка адаптирована под десктоп, планшет и смартфон.
+A single-page landing for a fitness club, with a dark theme and bold typography. The layout adapts to desktop, tablet and mobile screens.
 
-
-### Секции страницы
-
-| Секция | Класс |
+| Секция · Section | Что в ней · Content |
 |---|---|
-| Шапка с навигацией | `.header` |
-| Баннер с анонсом события | `.banner` |
-| Мотивация | `.motivation` |
-| Виды тренировок | `.training-types` |
-| Видео и форма «Join us» | `.join-us` |
-| Карта филиалов | `.location` |
-| Галерея «Family» | `.family` |
-| Калькулятор | `.calculate` |
-| Подвал с подпиской и соцсетями | `.footer` |
+| `.header` | Логотип и навигация<br>Logo and navigation |
+| `.banner` | Анонс события<br>Event announcement |
+| `.motivation` | Мотивационный блок<br>Motivation block |
+| `.training-types` | Виды тренировок<br>Types of training |
+| `.join-us` | Видео и форма «Join us»<br>Video and "Join us" form |
+| `.location` | Карта филиалов<br>Branches map |
+| `.family` | Галерея «Family»<br>"Family" gallery |
+| `.calculate` | Калькулятор<br>Calculator |
+| `.footer` | Подписка и соцсети<br>Subscription and social links |
 
-### Что реализовано
+## Возможности · Features
 
-- **Адаптивная вёрстка** — медиазапросы для 1920, 1280, 1024 и 767 px, «резиновые» размеры через `clamp()`
-- **Сетки** — раскладка блоков на CSS Grid и Flexbox
-- **CSS-переменные** — цвета и общие значения вынесены в `:root`
-- **Декоративные заголовки** — крупный текст на фоне заголовка через `::before` / `::after` и `data-title`
-- **Формы** — подписка, «Join us» и калькулятор
-- **Собственные шрифты** — Heebo и Yantramanav в формате `woff2`
-- **Оптимизация** — ленивая загрузка изображений (`loading="lazy"`), заданные `width` / `height`
-- **Доступность** — скрытые заголовки (`visually-hidden`), `aria-label`, учёт `prefers-reduced-motion`
+| Русский | English |
+|---|---|
+| Адаптив: 1920, 1280, 1024 и 767 px | Responsive: 1920, 1280, 1024 and 767 px |
+| «Резиновые» размеры через `clamp()` | Fluid sizes via `clamp()` |
+| Раскладка на CSS Grid и Flexbox | CSS Grid and Flexbox layouts |
+| CSS-переменные в `:root` | CSS custom properties in `:root` |
+| Декоративные заголовки через `::before` / `::after` и `data-title` | Decorative backdrop headings via `::before` / `::after` and `data-title` |
+| Формы: подписка, «Join us», калькулятор | Forms: subscription, "Join us", calculator |
+| Ленивая загрузка изображений, заданные `width` / `height` | Lazy-loaded images, explicit `width` / `height` |
+| Скрытые заголовки и `aria-label` | Visually hidden headings and `aria-label` |
+| Учёт `prefers-reduced-motion` | `prefers-reduced-motion` support |
 
-### Технологии
+## Технологии · Tech Stack
 
-- **HTML5** — семантическая разметка (`header`, `main`, `section`, `footer`)
-- **CSS3** — Grid, Flexbox, переменные, псевдоэлементы, медиазапросы
-- **Figma** — работа с макетом
+| | |
+|---|---|
+| **Разметка · Markup** | HTML5 (`header`, `main`, `section`, `footer`) |
+| **Стили · Styles** | CSS3: Grid, Flexbox, custom properties, pseudo-elements, media queries |
+| **Шрифты · Fonts** | Heebo, Yantramanav (`woff2`) |
+| **Макет · Design** | Figma |
+| **Хостинг · Hosting** | GitHub Pages |
 
-### Запуск
+## Структура проекта · Project Structure
+
+```
+KROPP-FITNESS/
+├── index.html
+├── styles.css
+├── fonts/
+├── icons/
+└── images/
+```
+
+## Запуск локально · Running Locally
 
 ```bash
 git clone https://github.com/KatyMist/KROPP-FITNESS.git
@@ -79,75 +92,17 @@ cd KROPP-FITNESS
 open index.html
 ```
 
-Или откройте **[демо](https://katymist.github.io/KROPP-FITNESS/)** на GitHub Pages.
+Сборка не нужна, достаточно открыть `index.html` в браузере.<br>
+No build step needed, just open `index.html` in a browser.
 
-### Автор
+## Автор · Author
 
-**Екатерина Туманова** — Frontend Developer & Designer
+**Екатерина Туманова · Ekaterina Tumanova** — Frontend Developer & Designer
 
-[Портфолио](https://katymist.github.io/Portfolio/) · [GitHub](https://github.com/KatyMist)
-
----
-
-## 🇬🇧 English
-
-### About
-
-**KROPP Fitness** is a front-end layout study project: a dark-themed single-page website for a fitness club with bold typography. The layout adapts to desktop, tablet and mobile screens.
-
-> 📺 The website was built following a video course by Alexander Lamkov (Friendly Frontend): **["Responsive website layout from scratch for beginners"](https://www.youtube.com/playlist?list=PL0MUAHwery4rqkzKF1mDBCIH_eZgjY6uN)** (in Russian)
-
-### Page sections
-
-| Section | Class |
-|---|---|
-| Header with navigation | `.header` |
-| Event banner | `.banner` |
-| Motivation | `.motivation` |
-| Types of training | `.training-types` |
-| Video and "Join us" form | `.join-us` |
-| Branches map | `.location` |
-| "Family" gallery | `.family` |
-| Calculator | `.calculate` |
-| Footer with subscription and social links | `.footer` |
-
-### Features
-
-- **Responsive layout** — media queries for 1920, 1280, 1024 and 767 px, fluid sizes via `clamp()`
-- **Layouts** — CSS Grid and Flexbox
-- **CSS custom properties** — colors and shared values in `:root`
-- **Decorative headings** — large backdrop text via `::before` / `::after` and `data-title`
-- **Forms** — subscription, "Join us" and calculator
-- **Custom fonts** — Heebo and Yantramanav in `woff2`
-- **Optimization** — lazy-loaded images (`loading="lazy"`), explicit `width` / `height`
-- **Accessibility** — visually hidden headings, `aria-label`, `prefers-reduced-motion` support
-
-### Tech stack
-
-- **HTML5** — semantic markup (`header`, `main`, `section`, `footer`)
-- **CSS3** — Grid, Flexbox, custom properties, pseudo-elements, media queries
-- **Figma** — working from a design mockup
-
-### Getting started
-
-```bash
-git clone https://github.com/KatyMist/KROPP-FITNESS.git
-cd KROPP-FITNESS
-open index.html
-```
-
-Or open the **[live demo](https://katymist.github.io/KROPP-FITNESS/)** on GitHub Pages.
-
----
-
-### Author
-
-**Ekaterina Tumanova** — Frontend Developer & Designer
-
-[Portfolio](https://katymist.github.io/Portfolio/) · [GitHub](https://github.com/KatyMist)
+[Портфолио · Portfolio](https://katymist.github.io/Portfolio/) · [GitHub](https://github.com/KatyMist)
 
 ---
 
 <div align="center">
-<sub>Макет и дизайн — © Александр Ламков (Friendly Frontend) · Mockup and design — © Alexander Lamkov (Friendly Frontend)</sub>
+<sub>Учебный проект по курсу Friendly Frontend · A learning project based on the Friendly Frontend course<br>© Александр Ламков — макет и дизайн · © Alexander Lamkov — mockup and design</sub>
 </div>
