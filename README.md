@@ -18,6 +18,12 @@
 
 </div>
 
+
+> [!NOTE]
+> **О проекте.** Сайт сделан как учебный проект по видеокурсу Александра Ламкова (Friendly Frontend) [«Адаптивная верстка сайта с нуля для начинающих»](https://www.youtube.com/playlist?list=PL0MUAHwery4rqkzKF1mDBCIH_eZgjY6uN). Дизайн и идея принадлежат автору курса, вёрстка — моя учебная работа.
+>
+> **About the project.** This website is a learning project built following Alexander Lamkov's (Friendly Frontend) video course ["Responsive website layout from scratch for beginners"](https://www.youtube.com/playlist?list=PL0MUAHwery4rqkzKF1mDBCIH_eZgjY6uN) (in Russian). The design and concept belong to the course author; the markup is my own learning work.
+
 ---
 
 ## 🇷🇺 Русский
@@ -26,7 +32,6 @@
 
 **KROPP Fitness** — учебный проект по вёрстке: одностраничный сайт фитнес-клуба в тёмной теме с крупной типографикой. Вёрстка адаптирована под десктоп, планшет и смартфон.
 
-> 📺 Сайт сделан по видеокурсу Александра Ламкова (Friendly Frontend): **[«Адаптивная верстка сайта с нуля для начинающих»](https://www.youtube.com/playlist?list=PL0MUAHwery4rqkzKF1mDBCIH_eZgjY6uN)**
 
 ### Секции страницы
 
