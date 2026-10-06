@@ -6,13 +6,10 @@
 **A responsive landing page for a fitness club**
 
 <a href="https://katymist.github.io/KROPP-FITNESS/"><img src="https://img.shields.io/badge/Открыть_сайт-KROPP_Fitness-1f3a2b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f1f17" alt="Открыть сайт"></a>
-
 <img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML5, CSS3, Figma">
 
 <a href="#-русский"><img src="https://img.shields.io/badge/RU-Русский-1f3a2b?style=flat-square&labelColor=0f1f17" alt="Русский"></a>
 <a href="#-english"><img src="https://img.shields.io/badge/EN-English-1f3a2b?style=flat-square&labelColor=0f1f17" alt="English"></a>
-
-<br><br>
 
 <img width="2880" height="1600" alt="image" src="https://github.com/user-attachments/assets/4789b2fa-1e88-441c-a7fe-c0ab2d576f39" />
 
