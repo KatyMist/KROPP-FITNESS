@@ -5,13 +5,14 @@
 **Адаптивный лендинг фитнес-клуба**<br>
 **A responsive landing page for a fitness club**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<a href="https://katymist.github.io/KROPP-FITNESS/"><img src="https://img.shields.io/badge/Открыть_сайт-KROPP_Fitness-1f3a2b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f1f17" alt="Открыть сайт"></a>
 
-[**🔗 Демо · Live demo**](https://katymist.github.io/KROPP-FITNESS/)
+<img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML5, CSS3, Figma">
 
-[Русский](#-русский) · [English](#-english)
+<a href="#-русский"><img src="https://img.shields.io/badge/RU-Русский-1f3a2b?style=flat-square&labelColor=0f1f17" alt="Русский"></a>
+<a href="#-english"><img src="https://img.shields.io/badge/EN-English-1f3a2b?style=flat-square&labelColor=0f1f17" alt="English"></a>
+
+<br><br>
 
 <img src="https://github.com/user-attachments/assets/16306dbb-549e-430c-ac70-3d0fc63de03d" alt="KROPP Fitness — главная страница" width="100%">
 
