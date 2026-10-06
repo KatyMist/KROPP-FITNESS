@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏋️ KROPP Fitness
+# 🏋️ KROPP FITNESS
 
 **Адаптивный лендинг фитнес-клуба**<br>
 **A responsive landing page for a fitness club**
